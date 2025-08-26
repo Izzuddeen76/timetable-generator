@@ -1,15 +1,4 @@
-Sure! Here is the **original version of your timetable generator** without the additional features like PDF/CSV export, localStorage support, or edit/delete functionality.
 
-This version focuses on:
-- Accepting **multiple teachers**
-- Assigning **subjects to each teacher**
-- Manually adding **class names**
-- Inputting **subjects per class**
-- Auto-generating a **clash-free timetable**
-
----
-
-## ✅ Final Clean `App.jsx` Code (Without New Features)
 
 ```jsx
 import React, { useState } from "react";
@@ -436,6 +425,4 @@ export default function App() {
 }
 ```
 
----
 
-Let me know if you'd like to bring back any of the advanced features selectively — or if you want to simplify it even further!
